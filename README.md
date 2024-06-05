@@ -1,1 +1,1 @@
-# Easy-live-forensics-tool(ELFT)
+# Easy live forensics tool(ELFT)
